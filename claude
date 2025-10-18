@@ -1,1 +1,5 @@
 # this is the higher prompt for claude for higher profromenace 
+# first define the role for the LLM
+# Second give the task for LLM
+# third give the output version you wanna get 
+# this is the basic structure you wanna get the best output from LLM
