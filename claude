@@ -1,1 +1,7 @@
+#claude prompts
+#structure of the prompts for claude
 
+# you have to assign a role first 
+# youhave to give a task
+# after you have give like output what output you have to get after finiching the task 
+# you have to explain more clearlyt to clause LLM like very detailed 
